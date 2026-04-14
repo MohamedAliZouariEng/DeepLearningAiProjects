@@ -1,0 +1,11 @@
+numpy
+matplotlib
+gym
+tensorflow
+imageio
+pandas
+pyvirtualdisplay
+gym[box2d]
+box2d-py
+imageio[ffmpeg]
+imageio[pyav]
